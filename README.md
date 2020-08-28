@@ -1,3 +1,3 @@
 # c-sharp_fundamentals
 Example code used during C# Fundamentals workshops. 
-Example code. Partials solutions.
+Example code. Partial solutions.

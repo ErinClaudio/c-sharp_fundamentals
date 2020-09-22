@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kkell\\OneDrive\\_20Fathoms\\MICA\\9.4.Workshops\\20.Q3.Sessions\\20.09.09.CSharpFundamentalsP2\\Session02\\fromSesssion1\\c-sharp_fundamentals\\test\\BlackJack.Tests\\BlackJack.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kkell\\OneDrive\\_20Fathoms\\MICA\\9.4.Workshops\\20.Q3.Sessions\\20.09.09.CSharpFundamentalsP2\\Session02\\fromSesssion1\\c-sharp_fundamentals\\src\\BlackJack\\BlackJack.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kkell\\OneDrive\\_20Fathoms\\MICA\\9.4.Workshops\\20.Q3.Sessions\\20.09.09.CSharpFundamentalsP2\\Session02\\fromSesssion1\\c-sharp_fundamentals\\src\\BlackJack\\BlackJack.csproj",
+        "projectName": "BlackJack",
+        "projectPath": "C:\\Users\\kkell\\OneDrive\\_20Fathoms\\MICA\\9.4.Workshops\\20.Q3.Sessions\\20.09.09.CSharpFundamentalsP2\\Session02\\fromSesssion1\\c-sharp_fundamentals\\src\\BlackJack\\BlackJack.csproj",
+        "packagesPath": "C:\\Users\\kkell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kkell\\OneDrive\\_20Fathoms\\MICA\\9.4.Workshops\\20.Q3.Sessions\\20.09.09.CSharpFundamentalsP2\\Session02\\fromSesssion1\\c-sharp_fundamentals\\src\\BlackJack\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kkell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kkell\\OneDrive\\_20Fathoms\\MICA\\9.4.Workshops\\20.Q3.Sessions\\20.09.09.CSharpFundamentalsP2\\Session02\\fromSesssion1\\c-sharp_fundamentals\\test\\BlackJack.Tests\\BlackJack.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kkell\\OneDrive\\_20Fathoms\\MICA\\9.4.Workshops\\20.Q3.Sessions\\20.09.09.CSharpFundamentalsP2\\Session02\\fromSesssion1\\c-sharp_fundamentals\\test\\BlackJack.Tests\\BlackJack.Tests.csproj",
+        "projectName": "BlackJack.Tests",
+        "projectPath": "C:\\Users\\kkell\\OneDrive\\_20Fathoms\\MICA\\9.4.Workshops\\20.Q3.Sessions\\20.09.09.CSharpFundamentalsP2\\Session02\\fromSesssion1\\c-sharp_fundamentals\\test\\BlackJack.Tests\\BlackJack.Tests.csproj",
+        "packagesPath": "C:\\Users\\kkell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kkell\\OneDrive\\_20Fathoms\\MICA\\9.4.Workshops\\20.Q3.Sessions\\20.09.09.CSharpFundamentalsP2\\Session02\\fromSesssion1\\c-sharp_fundamentals\\test\\BlackJack.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kkell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\kkell\\OneDrive\\_20Fathoms\\MICA\\9.4.Workshops\\20.Q3.Sessions\\20.09.09.CSharpFundamentalsP2\\Session02\\fromSesssion1\\c-sharp_fundamentals\\src\\BlackJack\\BlackJack.csproj": {
+                "projectPath": "C:\\Users\\kkell\\OneDrive\\_20Fathoms\\MICA\\9.4.Workshops\\20.Q3.Sessions\\20.09.09.CSharpFundamentalsP2\\Session02\\fromSesssion1\\c-sharp_fundamentals\\src\\BlackJack\\BlackJack.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
